@@ -1,10 +1,9 @@
 # Hospital Management System
 
-**Team:**
-
-Adarsh Ninganur
-
-Aryan Prasad
+## installation
+run python -m venv venv
+pip install -r requirments.txt
+python app.py
 
 **Project Statement:**
 
